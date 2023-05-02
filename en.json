@@ -1,0 +1,12 @@
+{
+  "pages": {
+    "home": {
+      "title": "Homepage",
+      "intro": "This is a homepage"
+    },
+    "sales": {
+      "title": "Buy stuff!",
+      "intro": "Have your card details ready!"
+    }
+  }
+}
